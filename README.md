@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Lucas
 
 <p align="center">
-  <em>Software Engineer | Brazil</em>
+  <em> Python Software Engineer | Brazil</em>
 </p>
 
 <p align="center">
