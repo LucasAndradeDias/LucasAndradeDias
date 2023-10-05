@@ -48,5 +48,8 @@ Here are some of the open source projects :
 
 ---
 
+[!['s Holopin badges](https://holopin.me/lucasandradedias)](https://holopin.io/@lucasandradedias)
+
+
 <p align="center">🌟 Let's innovate, collaborate, and create something amazing! 🌟</p>
 
