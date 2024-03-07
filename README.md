@@ -11,7 +11,7 @@
 </p>
 
 * 📖 Computer Science Student at UFSCar.
-* 🎓 Software Developer at BMW Group on the Autonomous Driving CI Project.
+* 🎓 Software Developer.
 * 💡 Open Source Contributor.
 
 ## About Me
